@@ -1,6 +1,9 @@
 # Library-Management-Software
 The project Library management software is for monitoring and controlling the transactions in a library. The project "Library Management System" mainly focuses on basic operations in a library like adding new members, new books, and updating new information, searching books and members, and facility to borrow and return books.
 
+To Know more Information about our project check out ppt :- 
+> **To download the presentation, [click here](https://github.com/PrAyAg9/Library-Management-Software/blob/main/ONLINE%20LIBRARY%20MANAGEMENT%20SYSTEM.pptx).**
+
 # Installation
 
 1. Install XAMPP or WAMPP.
